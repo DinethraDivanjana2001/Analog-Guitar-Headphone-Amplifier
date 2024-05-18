@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VOUT Pin=R4-1
+Removed Pin From Net: NetName=V2 Pin=R4-2
+Change Component Footprint: Designator=IC1 Old Footprint=DIP794W53P254L959H508Q8N New Footprint=P0008A
+Change Component Footprint: Designator=R1 Old Footprint=RESAD1520W63L600D230 New Footprint=RESAD1575W64L635D235
+Change Component Footprint: Designator=R2 Old Footprint=RESAD1520W63L600D230 New Footprint=RESAD1575W64L635D235
+Change Component Footprint: Designator=R3 Old Footprint=RESAD1520W63L600D230 New Footprint=RESAD1575W64L635D235
+Change Component Footprint: Designator=R4 Old Footprint=RESAD1520W63L600D230 New Footprint=RESAD1575W64L635D235
+Change Component Comment : Designator=R1 Old Comment=CF14JT10K0 New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=CF14JT10K0 New Comment=10k
+Change Component Comment : Designator=R3 Old Comment=CF14JT10K0 New Comment=10k
+Change Component Comment : Designator=R4 Old Comment=CF14JT10K0 New Comment=560
+Change Component Comment : Designator=C2 Old Comment=ECA-1VM471B New Comment=470uF
+Change Component Comment : Designator=C1 Old Comment=ESK225M050AC3KA New Comment=2.2uF
+Change Component Comment : Designator=C3 Old Comment=UCS2E470MHD1TO New Comment=47uF
+Added Pin To Net: NetName=V2 Pin=R4-1
+Added Pin To Net: NetName=VOUT Pin=R4-2

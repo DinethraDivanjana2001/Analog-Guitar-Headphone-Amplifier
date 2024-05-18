@@ -1,0 +1,3 @@
+Change Component Comment : Designator=VR1 Old Comment=3 New Comment=PTV09A-4020F-A504
+Change Component Designator: OldDesignator=22 NewDesignator=J1
+Added Pin To Net: NetName=OUT Pin=J2-3

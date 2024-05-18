@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=3.5mm Jack-1
+Removed Pin From Net: NetName=OUT Pin=3.5mm Jack-2
+Removed Pin From Net: NetName=OUT Pin=3.5mm Jack-3
+Removed Member From Class: ClassName=Schemetic_1 Member=3.5mm Jack
+Change Component Designator: OldDesignator=3 NewDesignator=Power
+Change Component Designator: OldDesignator=6.35mm Jack NewDesignator=J1
+Added Component: Designator=J2(MJ3502N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MJ-3502N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mj-3502n/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.cui.com/product/resource/mj-3502n.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MJ-3502N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MJ-3502N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MJ-3502N?qs=WyjlAZoYn51%252Bghx31AcijA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=OUT Pin=J2-2
+Added Pin To Net: NetName=OUT Pin=J2-3
+Added Member To Class: ClassName=Schemetic_1 Member=Component J2 MJ-3502N
+Added Member To Class: ClassName=Schemetic_1 Member=Component Power 1985823

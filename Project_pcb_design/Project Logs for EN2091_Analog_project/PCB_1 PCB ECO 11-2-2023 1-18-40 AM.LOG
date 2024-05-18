@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=IN Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=OUT Pin=J2-2
+Removed Pin From Net: NetName=OUT Pin=J2-3
+Change Component Footprint: Designator=J1 Old Footprint=CUI_SJ-63072J New Footprint=48332330
+Change Component Footprint: Designator=J2 Old Footprint=MJ3502N New Footprint=SJ13515N
+Change Component Footprint: Designator=Base Old Footprint=RK1631110TBK New Footprint=PTV09A4020FB103
+Change Component Footprint: Designator=Gain Old Footprint=RK1631110TBK New Footprint=PTV09A4020FB103
+Change Component Footprint: Designator=Treble Old Footprint=RK1631110TBK New Footprint=PTV09A4020FB103
+Change Component Comment : Designator=J2 Old Comment=MJ-3502N New Comment=SJ1-3515N
+Change Component Comment : Designator=Base Old Comment=RK1631110TBK New Comment=PTV09A-4020U-B104
+Change Component Comment : Designator=Gain Old Comment=RK1631110TBK New Comment=PTV09A-4020U-B104
+Change Component Comment : Designator=Treble Old Comment=RK1631110TBK New Comment=PTV09A-4020U-B104
+Change Component Comment : Designator=J1 Old Comment=SJ-63072J New Comment=4833.2330
+Change component parameters: Designator = "Base" ("Base"); Footprint = "RK1631110TBK"; UniqueID = "\HMEWVKKV" ("\HMEWVKKV")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PTV09A-4020U-B104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptv09a-4020u-b104/bourns?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/7377827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4020U-B104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A4020U-B104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4020U-B104?qs=vreUKO%252BhQaqrjXBkfM1hBQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Gain" ("Gain"); Footprint = "RK1631110TBK"; UniqueID = "\VOFKTVZH" ("\VOFKTVZH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PTV09A-4020U-B104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptv09a-4020u-b104/bourns?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/7377827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4020U-B104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A4020U-B104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4020U-B104?qs=vreUKO%252BhQaqrjXBkfM1hBQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "CUI_SJ-63072J"; UniqueID = "\SBFTPTHW" ("\SBFTPTHW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/SHRI/SHRIS26499/SHRIS26511-1.pdf?hkey=52A5661711E402568146F3353EA87419"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "15.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SCHURTER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "4833.2330"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "693-4833.233"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Schurter/4833.2330?qs=wwP%252BWDYHj0Z3fNxHdwSLYg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "MJ3502N"; UniqueID = "\MHPMEOOM" ("\MHPMEOOM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SJ1-3515N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/sj1-3515n/cui-devices?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SJ1-3515N.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ1-3515N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "490-SJ1-3515N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ1-3515N?qs=WyjlAZoYn51jeVVXLxifpg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Treble" ("Treble"); Footprint = "RK1631110TBK"; UniqueID = "\QQOXZSJJ" ("\QQOXZSJJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PTV09A-4020U-B104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ptv09a-4020u-b104/bourns?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/7377827"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTV09A-4020U-B104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "652-PTV09A4020U-B104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4020U-B104?qs=vreUKO%252BhQaqrjXBkfM1hBQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IN Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=IN Pin=J2-2

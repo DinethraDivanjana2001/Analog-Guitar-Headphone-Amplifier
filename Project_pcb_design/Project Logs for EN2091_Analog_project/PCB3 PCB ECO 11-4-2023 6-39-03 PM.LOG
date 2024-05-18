@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=R1-1
+Removed Pin From Net: NetName=V1 Pin=R1-2
+Change Component Footprint: Designator=IC1 Old Footprint=DIP794W53P254L959H508Q8N New Footprint=P0008A
+Change Component Footprint: Designator=R1 Old Footprint=RESAD1520W63L600D230 New Footprint=RESAD1575W64L635D235
+Change Component Footprint: Designator=R2 Old Footprint=RESAD1520W63L600D230 New Footprint=RESAD1575W64L635D235
+Change Component Footprint: Designator=R3 Old Footprint=RESAD1520W63L600D230 New Footprint=RESAD1575W64L635D235
+Change Component Footprint: Designator=R4 Old Footprint=RESAD1520W63L600D230 New Footprint=RESAD1575W64L635D235
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESAD1520W63L600D230"; UniqueID = "\QJCLYEDO" ("\QJCLYEDO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rnf14bte10k0/stackpole-electronics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-RNF_RNMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "708-RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RNF14BTE10K0?qs=IPgv5n7u5QYKJK0RZrwoRg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESAD1520W63L600D230"; UniqueID = "\ZCLMJOVH" ("\ZCLMJOVH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rnf14bte10k0/stackpole-electronics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-RNF_RNMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "708-RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RNF14BTE10K0?qs=IPgv5n7u5QYKJK0RZrwoRg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESAD1520W63L600D230"; UniqueID = "\HNJXEGHE" ("\HNJXEGHE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rnf14bte10k0/stackpole-electronics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-RNF_RNMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "708-RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RNF14BTE10K0?qs=IPgv5n7u5QYKJK0RZrwoRg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESAD1520W63L600D230"; UniqueID = "\NJBZXZYO" ("\NJBZXZYO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rnf14bte10k0/stackpole-electronics?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-RNF_RNMF.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "708-RNF14BTE10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/SEI-Stackpole/RNF14BTE10K0?qs=IPgv5n7u5QYKJK0RZrwoRg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R1-2

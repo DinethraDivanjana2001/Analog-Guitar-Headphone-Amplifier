@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=V1 Pin=R1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=R1-2
+Removed Pin From Net: NetName=VOUT Pin=R4-1
+Removed Pin From Net: NetName=V2 Pin=R4-2
+Change Footprint: Cannot match pads with new footprint in component :IC1 Footprint:P0008A
+Change Component Comment : Designator=R1 Old Comment=CF14JT10K0 New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=CF14JT10K0 New Comment=10k
+Change Component Comment : Designator=R3 Old Comment=CF14JT10K0 New Comment=10k
+Change Component Comment : Designator=R4 Old Comment=CF14JT10K0 New Comment=560
+Change Component Comment : Designator=C2 Old Comment=ECA-1VM471B New Comment=470uF
+Change Component Comment : Designator=C1 Old Comment=ESK225M050AC3KA New Comment=2.2uF
+Change Component Comment : Designator=C3 Old Comment=UCS2E470MHD1TO New Comment=47uF
+Change Managed Component Library Link : Designator=IC1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=05FCA2A3-FD80-465C-B4B2-CE5979BFB3AB Old RevisionGUID= New RevisionGUID=2B9B9EE4-3A17-49F0-A691-E1D04486AC88
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "DIP794W53P254L959H508Q8N"; UniqueID = "\XQLESUFS" ("\XQLESUFS")
+Change component parameters (AddParameter): Name = "CMRR(Min)(dB)"; Value = "70"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/lit/ds/symlink/ne5532.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpdi001b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SLOS075I"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Pb-Free (RoHS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GBW(Typ)(MHz)"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IIB(Max)(pA)"; Value = "800000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic In-Line, Body 9.59 x 6.35 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "P0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "4040082/E, 04/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "NE5532P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub Family"; Value = "General Purpose Amplifier, High Supply Voltage Amplifier (>=30V), Low Noise Amp (<=10nV/rtHz)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vn at 1kHz(Typ)(nV/rtHz)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESAD1520W63L600D230"; UniqueID = "\XENOPTTX" ("\XENOPTTX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CF14JT560R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cf14jt560r/stackpole-electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-CF_CFM.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT560R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESAD1520W63L600D230"; UniqueID = "\UZGBSGYE" ("\UZGBSGYE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CF14JT560R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cf14jt560r/stackpole-electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-CF_CFM.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT560R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESAD1520W63L600D230"; UniqueID = "\HKZQCISP" ("\HKZQCISP")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CF14JT560R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cf14jt560r/stackpole-electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-CF_CFM.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT560R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESAD1520W63L600D230"; UniqueID = "\RVLPPISI" ("\RVLPPISI")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "CF14JT560R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/cf14jt560r/stackpole-electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cs.seielect.com/catalog/SEI-CF_CFM.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CF14JT560R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=V1 Pin=R1-2
+Added Pin To Net: NetName=V2 Pin=R4-1
+Added Pin To Net: NetName=VOUT Pin=R4-2

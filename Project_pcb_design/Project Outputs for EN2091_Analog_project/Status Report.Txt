@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [EN2091_Analog_project.PrjPcb]
+   Generated File[PCB3.GTO]
+   Generated File[PCB3.GTP]
+   Generated File[PCB3.GTS]
+   Generated File[PCB3.GTL]
+   Generated File[PCB3.GBL]
+   Generated File[PCB3.GBS]
+   Generated File[PCB3.GBP]
+   Generated File[PCB3.GBO]
+   Generated File[PCB3.GM1]
+   Generated File[PCB3.GM13]
+   Generated File[PCB3.GM15]
+   Generated File[PCB3.GKO]
+   Generated File[PCB3.GPT]
+   Generated File[PCB3.GPB]
+   Generated File[PCB3.GML]
+   Generated File[PCB3.1]
+   Generated File[PCB3.GD1]
+   Generated File[PCB3.GG1]
+   Generated File[PCB3.GM]
+   Generated File[PCB3.EXTREP]
+   Generated File[PCB3.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 5:42:07 PM On 11/13/2023
